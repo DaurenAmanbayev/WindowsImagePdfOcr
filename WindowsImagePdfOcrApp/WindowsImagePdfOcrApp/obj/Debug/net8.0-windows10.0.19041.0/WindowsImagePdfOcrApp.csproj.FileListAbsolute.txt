@@ -1,0 +1,17 @@
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.exe
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.deps.json
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.runtimeconfig.json
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.dll
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.pdb
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\bin\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.AssemblyInfoInputs.cache
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.AssemblyInfo.cs
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.csproj.CoreCompileInputs.cache
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsI.67D21F08.Up2Date
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.dll
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\refint\WindowsImagePdfOcrApp.dll
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.pdb
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\WindowsImagePdfOcrApp.genruntimeconfig.cache
+C:\Users\DNC\source\repos\WindowsImagePdfOcrApp\WindowsImagePdfOcrApp\obj\Debug\net8.0-windows10.0.19041.0\ref\WindowsImagePdfOcrApp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaZ5QrCYA0Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DNC\\Documents\\GitHub\\WindowsImagePdfOcr\\WindowsImagePdfOcrApp\\WindowsImagePdfOcrApp\\WindowsImagePdfOcrApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DNC\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -69,10 +69,10 @@ The extracted text will be saved to `file.pdf.txt` or `scan.png.txt` next to the
 
 ## Project layout
 
-- `Program.cs` � CLI entry point, detects file type and orchestrates processing
-- `PdfProcessor.cs` � Loads PDF, renders pages via `Windows.Data.Pdf`, converts pages to bitmaps
-- `ImageProcessor.cs` � Validates and loads images
-- `PowerOcrEngine.cs` � Image preprocessing (pad, invert, scale), converts to `SoftwareBitmap`, calls `OcrEngine`
+- `Program.cs` CLI entry point, detects file type and orchestrates processing
+- `PdfProcessor.cs` Loads PDF, renders pages via `Windows.Data.Pdf`, converts pages to bitmaps
+- `ImageProcessor.cs` Validates and loads images
+- `PowerOcrEngine.cs` Image preprocessing (pad, invert, scale), converts to `SoftwareBitmap`, calls `OcrEngine`
 
 ## Performance and optimization tips
 

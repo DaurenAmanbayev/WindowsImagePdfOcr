@@ -12,7 +12,7 @@ A small command-line and library tool that performs OCR on PDF pages and image f
 
 ## Prerequisites
 
-- Windows 10 (version 1809+) or Windows 11 � required for WinRT OCR APIs
+- Windows 10 (version 1809+) or Windows 11 required for WinRT OCR APIs
 - .NET 8 SDK
 - Visual Studio 2022 (recommended) or newer with .NET desktop development workload
 
